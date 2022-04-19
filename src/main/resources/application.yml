@@ -1,0 +1,6 @@
+spring:
+  redis:
+    cluster:
+      nodes: localhost:6379
+  main:
+    allow-bean-definition-overriding: true
